@@ -104,5 +104,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/heliang0915/ci-demo.git
-  branch: master
+  branch: main
   message:
